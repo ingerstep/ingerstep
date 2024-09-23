@@ -1,26 +1,23 @@
-<h1 align="center">Hi 👋, I'm Stepan</h1>
-<h3 align="center">I`m frontend developer from Russia</h3>
+<h1 align="center">Привет 👋</h1>
+<h3 align="center">Я веб разработчик, создаю приложения на популярных библиотеках и фреймворках.</h3>
 
-- 🔭 I’m working on [E-commerce shop](https://github.com/ingerstep/e-market)
+- 🔭 Текущий проект [E-commerce shop](https://github.com/ingerstep/e-market)
 
-- 🌱 I’m currently learning **Next js, Nest js**
+- 🌱 Сейчас изучаю **Next js, Nest js**
 
-- 👯 I’m looking to collaborate on **Fullstack web projects**
+- 📄 Подробнее об опыте рыботы - [резюме](https://docs.google.com/document/d/1gHZ_mN6WpQczCT8EWOQa6snVAw9eZyRA3-nvkpjf1ro/edit)
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1gHZ_mN6WpQczCT8EWOQa6snVAw9eZyRA3-nvkpjf1ro/edit)
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Контакты:</h3>
 
 <div align="left">
   <a href="https://t.me/ingerstep"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
   <a href="mailto:stepan.karelin.1996@mail.ru"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/%D1%81%D1%82%D0%B5%D0%BF%D0%B0%D0%BD-%D0%BA%D0%B0%D1%80%D0%B5%D0%BB%D0%B8%D0%BD-8a9287262"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Инструменты, которые я чаще всего использую:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />

@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stepan</h1>
 <h3 align="center">I`m frontend developer from Russia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingerstep&label=Profile%20views&color=0e75b6&style=flat" alt="ingerstep" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingerstep" alt="ingerstep" /></a> </p>
-
 - 🔭 I’m working on [E-commerce shop](https://github.com/ingerstep/e-market)
 
 - 🌱 I’m currently learning **Next js, Nest js**
@@ -46,9 +42,8 @@
 </div>
 
 <p align="center">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ingerstep" alt="ingerstep" /></a> </p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingerstep&show_icons=true&locale=en&layout=compact" alt="ingerstep" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingerstep&show_icons=true&locale=en" alt="ingerstep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingerstep&" alt="ingerstep" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingerstep&show_icons=true&locale=en" alt="ingerstep" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ingerstep&" alt="ingerstep" /></p>
 </p>

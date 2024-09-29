@@ -4,26 +4,27 @@
 <div align="center">
   <a href="https://t.me/ingerstep"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
   <a href="mailto:stepan.karelin.1996@mail.ru"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.instagram.com/ingerstep.ger?igsh=eXF6b3ZxdnRtaG9i&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
 </div>
 <h1 align="center">
-  привет
+  hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Я фронтенд разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, создаю веб приложения на популярных библиотеках и фреймворках.
+I`m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, creating web applications using popular libraries and frameworks.
 
-- 🔭 Текущий проект [E-commerce shop](https://github.com/ingerstep/e-market)
+- 🔭 Current project: [E-commerce shop](https://github.com/ingerstep/e-market)
 
-- 🌱 Сейчас изучаю **Next js, Nest js**
+- 🌱 Currently learn: **Nest js, Go**
 
-- 📄 Подробнее об опыте рыботы - [резюме](https://docs.google.com/document/d/1gHZ_mN6WpQczCT8EWOQa6snVAw9eZyRA3-nvkpjf1ro/edit)
+- 🎨 Hobbies: 🏔️ ⛷️ 🏃‍♂️ 🎮 🧑‍🌾
 
 <p align="left">
 </p>
 
-### :hammer_and_wrench: Инструменты, которые я чаще всего использую:
+### :hammer_and_wrench: Tools I Use Most Often:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -44,14 +45,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-### :trophy: Ачивки :
+### :trophy: Achievements:
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ingerstep&theme=darkhub&no-bg=true&row=1&column=6" alt="ingerstep" />
   </a>
 </p>
 
-### :fire: Моя статистика :
+### :fire: My stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ingerstep&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingerstep&layout=compact&theme=vision-friendly-dark)](https://github.com/ingerstep/github-readme-stats)

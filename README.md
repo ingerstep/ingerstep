@@ -45,16 +45,19 @@ I`m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-### :trophy: Achievements:
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ingerstep&theme=darkhub&no-bg=true&row=1&column=6" alt="ingerstep" />
-  </a>
+
+
+<h2 align="center">:fire: My stats:</h2> 
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ingerstep&hide_border=true&theme=transparent" /> 
 </p>
 
-### :fire: My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ingerstep&theme=dark&background=000000)](https://git.io/streak-stats)
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=ingerstep&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingerstep&layout=compact&theme=vision-friendly-dark)](https://github.com/ingerstep/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ingerstep&show_icons=true&theme=vision-friendly-dark&background=000000" alt="ingerstep" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ingerstep&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ingerstep&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ingerstep&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+</div>

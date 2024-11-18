@@ -56,6 +56,12 @@ I`m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ingerstep&hide_border=true&theme=transparent" /> 
 </p>
 
+<div align="center">
+  <a href="https://www.codewars.com/users/ingerstep" target="_blank">
+    <img src="https://www.codewars.com/users/ingerstep/badges/large" alt="Codewars Badge"/>
+  </a>
+</div>
+
 <div align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=ingerstep&no-bg=true&no-frame=true&row=2&column=3"/>
 </div>

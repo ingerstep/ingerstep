@@ -15,7 +15,7 @@
 
 I`m a frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, creating web applications using popular libraries and frameworks.
 
-- 🔭 Current project: [E-commerce shop](https://github.com/ingerstep/e-market)
+- 🔭 Current project: [E-market](https://github.com/ingerstep/e-market)
 
 - 🌱 Currently learn: **Nest js, Go**
 

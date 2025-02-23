@@ -3,6 +3,20 @@
 
 <table align="center">
   <tr>
+    <td colspan="2" align="center"><strong>Projects</strong></td>
+  </tr>
+  <tr>
+    <td><strong>🎵 Music Application</strong></td>
+    <td align="center">A music streaming app built with React, Nest js & Docker. <a href="https://github.com/ingerstep/react-player">View Project</a></td>
+  </tr>
+  <tr>
+    <td><strong>🛒 E-commerce Shop</strong></td>
+    <td align="center">An online store built with Next.js. <a href="https://github.com/ingerstep/react-market">View Project</a></td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td colspan="2" align="center"><strong>Skills</strong></td>
   </tr>
   <tr>
@@ -36,16 +50,15 @@
 </table>
 
 <table align="center">
-  <tr>
-    <td colspan="2" align="center"><strong>Projects</strong></td>
+    <tr>
+    <td colspan="2" align="center"><strong>Contacts</strong></td>
   </tr>
   <tr>
-    <td><strong>🎵 Music Application</strong></td>
-    <td align="center">A music streaming app built with React, Nest js & Docker. <a href="https://github.com/ingerstep/react-player">View Project</a></td>
-  </tr>
-  <tr>
-    <td><strong>🛒 E-commerce Shop</strong></td>
-    <td align="center">An online store built with Next.js. <a href="https://github.com/ingerstep/react-market">View Project</a></td>
+    <td colspan="2" align="center">
+      <a href="https://t.me/ingerstep"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  /></a>
+      <a href="mailto:stepan.karelin.1996@mail.ru"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
+      <a href="https://www.instagram.com/ingerstep.ger?igsh=eXF6b3ZxdnRtaG9i&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" /></a>
+    </td>
   </tr>
 </table>
 
@@ -64,20 +77,6 @@
       <a href="https://www.codewars.com/users/ingerstep" target="_blank">
         <img src="https://www.codewars.com/users/ingerstep/badges/large" alt="Codewars Badge"/>
       </a>
-    </td>
-  </tr>
-</table>
-
-
-<table align="center">
-    <tr>
-    <td colspan="2" align="center"><strong>Contacts</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://t.me/ingerstep"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  /></a>
-      <a href="mailto:stepan.karelin.1996@mail.ru"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  /></a>
-      <a href="https://www.instagram.com/ingerstep.ger?igsh=eXF6b3ZxdnRtaG9i&utm_source=qr"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" /></a>
     </td>
   </tr>
 </table>
